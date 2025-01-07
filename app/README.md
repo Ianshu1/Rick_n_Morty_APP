@@ -1,4 +1,4 @@
-# Rick_Morty_APP installation and Launch Guide
+# Rick_n_Morty_APP installation and Launch Guide
 Prerequisites:
 Node.js (version 18.18.0 or higher)
 npm (or yarn/pnpm)
