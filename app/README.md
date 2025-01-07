@@ -19,17 +19,20 @@ npm (or yarn/pnpm)
 **5.Enjoy!**
 
 ## Additional Commands
+
 Build the project: npm run build
+
 Run tests with UI: npm run test
 
 ## Core Technologies
-React 19
-TypeScript
-Vite
-TanStack Query (React Query)
-TanStack Router
-Tailwind CSS
-Playwright (for testing)
-JSON Server
-Note
-Make sure ports 3000 (for JSON Server) and 5173 (for Vite) are available before starting.
+React 19,
+TypeScript,
+Vite,
+TanStack Query (React Query),
+TanStack Router,
+Tailwind CSS,
+Playwright (for testing),
+JSON Server,
+Note,
+
+## Make sure ports 3000 (for JSON Server) and 5173 (for Vite) are available before starting.
