@@ -1,26 +1,28 @@
-#Rick_Morty_APP installation and Launch Guide
+# Rick_Morty_APP installation and Launch Guide
 Prerequisites:
 Node.js (version 18.18.0 or higher)
 npm (or yarn/pnpm)
-Installation Steps
-Clone the repository
 
-1.Install dependencies 
-  -npm install
+## Installation Steps:
 
-2.Start JSON Server (for backend mock) 
-  -npm run server
+**1.Clone the repository**
 
-3.Start development server (in a new terminal) 
-  -npm run dev
+**2.Install dependencies 
+  -npm install**
 
-4.Enjoy!
+**3.Start JSON Server (for backend mock) 
+  -npm run server**
 
-Additional Commands
+**4.Start development server (in a new terminal) 
+  -npm run dev**
+
+**5.Enjoy!**
+
+## Additional Commands
 Build the project: npm run build
 Run tests with UI: npm run test
 
-Core Technologies
+## Core Technologies
 React 19
 TypeScript
 Vite
